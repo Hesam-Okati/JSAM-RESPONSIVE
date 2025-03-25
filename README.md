@@ -166,5 +166,5 @@ JSAM-RESPONSIVE is open-source and available under the MIT License.
 
 ## Contribution
 
-We welcome contributions! Feel free to submit issues or pull requests on [GitHub](https://github.com/JSAM-RESPONSIVE).
+We welcome contributions! Feel free to submit issues or pull requests on [GitHub](https://github.com/Hesam-Okati/JSAM-RESPONSIVE).
 
